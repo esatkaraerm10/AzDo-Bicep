@@ -5,7 +5,7 @@ trigger:
 variables:
   resourceGroupName: 'rg-mlops-bicep-test'
   location: 'westeurope'
-  azureSubscription: 'AzureConnection'
+  azureSubscription: 'Motion10-DnA-Dev'
   resourcePrefix: 'bicep'
 
 pool:
